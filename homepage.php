@@ -1,6 +1,7 @@
 <?php include 'connection/connection.php'; ?>
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8">
     <title>RailPatri</title>
@@ -39,55 +40,69 @@
         body {
             background-color: #DDDDDD;
         }
+
         table {
             width: 100%;
             text-align: center;
         }
+
         td {
             color: blue;
         }
+
         th,
         td {
             border: 1px solid grey;
         }
+
         .card {
             box-shadow: rgb(175, 175, 177);
             border: rgb(175, 175, 177);
         }
+
         h4 {
             color: #FFFFFF;
             font-family: "Montserrat";
             font-size: 3rem;
             line-height: 1.5;
         }
+
         .navbar {
             padding-bottom: 3 rem;
         }
+
         .nav-brand {
             font-size: 2.5rem;
             font-weight: bold;
         }
+
         .nav-item {
             padding: 0 18px;
         }
+
         .nav-link {
             font-size: 1.2rem;
             font-family: "Montserrat";
         }
+
         .dropdown-menu {
             background-color: #09A8FA;
             font-family: "Montserrat";
         }
+
         body {
             background-color: #F9F9F9;
         }
+
         .card {
             margin: 5%;
         }
+
         .card-header {
             background-color: #FFC947;
             padding: 0.75%;
         }
+
         .bg-dark {
             background-color: #171717;
         }
@@ -527,4 +542,6 @@
         <!-- Copyright -->
     </div>
 </footer>
+
+
 </html>
