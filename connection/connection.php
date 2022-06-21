@@ -9,5 +9,5 @@ $connection = mysqli_connect($server_name, $uname);
 if (!$connection) {
 die("Please try again! Connection Failed:" . mysqli_connect_error());
 }
-mysqli_select_db($connection, $database_name);
+// mysqli_select_db($connection, $database_name);
 ?>
