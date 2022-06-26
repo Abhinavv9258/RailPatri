@@ -135,7 +135,7 @@
                     <a class="nav-link dropdown-toggle" href="#" id="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-info"></i> More</a>
                     <div class="dropdown-menu text-primary bg-primary" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="#con"><i class="fab fa-blogger"></i> Blog</a>
-                        <a class="dropdown-item" href="about.php"><i class="fas fa-address-card"></i> About Us</a>
+                        <a class="dropdown-item" href="About.php"><i class="fas fa-address-card"></i> About Us</a>
                         <a class="dropdown-item" href="contact.php"><i class="fas fa-phone-volume"></i> Contact Us</a>
                     </div>
                 </li>

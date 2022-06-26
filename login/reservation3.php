@@ -23,9 +23,10 @@ if (isset($_POST['submit'])) {
     // Attempt insert query execution
     $insert = "INSERT INTO to2 (dest_id,Destination,user_id) VALUES ('$origin_id','$to','$user_id')";
     if (mysqli_query($connection, $insert)) {
+        header("Location:reservation4.php");
         $_SESSION['Destination'] = $to;
         $_SESSION['dest_id'] = $dest_id;
-        header("Location:reservation4.php");
+        // header("Location:reservation4.php");
         echo "Records added successfully.";
     } else {
         echo "ERROR: Could not able to execute $insert. " . mysqli_error($connection);

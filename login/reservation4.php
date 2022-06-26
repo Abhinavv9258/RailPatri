@@ -32,9 +32,10 @@ if (isset($_POST['submit'])) {
     // Attempt insert query execution
     $insert = "INSERT INTO passenger_info (sr,user_id,Source,Destination,Passenger_Name,Age,Gender,Contact,Address,Accomodation,Date,Preference) VALUES ('$dest_id','$user_id','$from','$to','$pass_name','$Age','$Gender','$Contact','$Address','$Accomodation','$Date','$Preference')";
     if (mysqli_query($connection, $insert)) {
+        header("Location:reservation5.php");
         $_SESSION['sr'] = $dest_id;
         $_SESSION['PNR_num'] = $pnr_num;
-        header("Location:reservation5.php");
+        // header("Location:reservation5.php");
         echo "Records added successfully.";
     } else {
         echo "ERROR: Could not able to execute $insert. " . mysqli_error($connection);
