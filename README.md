@@ -3,4 +3,4 @@
 <br/>
 Site link = https://railpatri.000webhostapp.com/
 
-![bg](https://user-images.githubusercontent.com/79451162/196846563-eb9093be-48e1-4c01-8d31-960bd4975096.jpg)
+![index](https://user-images.githubusercontent.com/79451162/196883906-4eecbb6f-a68e-466e-bdb4-171bcd42672c.png)
