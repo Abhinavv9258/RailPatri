@@ -1,5 +1,4 @@
 # RailPatri : E-Ticket Booking
-<br/>
 
 ### Deployed Site Link
 
