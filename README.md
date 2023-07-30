@@ -15,10 +15,9 @@ RailPatri is a railway management project that utilizes a combination of technol
   <li><strong>Programming Languages:</strong> php </li>
   <li><strong>Version Control:</strong> Git</li>
 </ul>
-<br/>
-The combination of HTML5, CSS, JavaScript, PHP, and Bootstrap provides the necessary tools to develop a comprehensive railway management application like RailPatri. This tech stack ensures that the project is accessible, responsive, and capable of handling various user interactions and data processing tasks efficiently.<br/>
+
+The combination of HTML5, CSS, JavaScript, PHP, and Bootstrap provides the necessary tools to develop a comprehensive railway management application like RailPatri. This tech stack ensures that the project is accessible, responsive, and capable of handling various user interactions and data processing tasks efficiently.<br/><br/>
 It is a comprehensive railway management web application that offers various features and functionalities to its users. Here is a brief description of the key sections and features of RailPatri: User LogIn and SignIn, Train Reservation, Timetable, PNR status, Railway Arrival Departure, Contact Us.
-<br/>
 <br/>
 
 
