@@ -24,4 +24,9 @@ It is a comprehensive railway management web application that offers various fea
 
 ![index](https://user-images.githubusercontent.com/79451162/196883906-4eecbb6f-a68e-466e-bdb4-171bcd42672c.png)
 
+### Train Database
+Username: demo<br/>
+Password: demo
+
+### Train Database
 ![image](https://github.com/Abhinavv9258/RailPatri/assets/79451162/64bcaa1d-dc07-4f39-b4b6-80b491db87d9)
